@@ -1,0 +1,15 @@
+{
+  "name": "4590-example",
+  "version": "1.0.0",
+  "description": "A little project about git",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Airrick Dunfield",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "tailwindcss": "^4.0.7"
+  }
+}
